@@ -2,24 +2,24 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics - Basic Exploratory Analysis (?) 
 
-[Project 1 Title](/sample_page)
+[Singapore Local Uni graduate employment analytics](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[HDB Resale Prices Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Price predictions - various storefronts (Kaggle Comp)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### NLP-focused projects
 
-- [Project 1 Title](http://example.com/)
+- [Sentiment Analysis - Singapore politics](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
